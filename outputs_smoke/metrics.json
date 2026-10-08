@@ -1,0 +1,22 @@
+{
+  "accuracy": 0.375,
+  "macro_f1": 0.16666666666666666,
+  "ece": 0.10214684903621674,
+  "pr_auc_class_0": 0.4666666666666667,
+  "roc_auc_class_0": 0.5333333333333333,
+  "pr_auc_class_1": 0.225,
+  "roc_auc_class_1": 0.16666666666666669,
+  "pr_auc_class_2": null,
+  "roc_auc_class_2": null,
+  "pr_auc_class_3": 0.2757936507936508,
+  "roc_auc_class_3": 0.0,
+  "pr_auc_class_4": null,
+  "roc_auc_class_4": null,
+  "macro_auroc": 0.2333333333333333,
+  "mae": 0.2057342827320099,
+  "rmse": 0.23664407653910993,
+  "alpha": 0.1,
+  "conformal_q": null,
+  "empirical_coverage": 1.0,
+  "mean_interval_width": 1.0
+}
